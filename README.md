@@ -21,22 +21,3 @@ This lightweight and real-time web application is built with **React Functional 
 
 ---
 
-## 🚀 Live Demo
-
-Coming soon! 🔗 (You can deploy it on [Vercel](https://vercel.com), [Netlify](https://www.netlify.com), or [GitHub Pages](https://pages.github.com) and add the link here.)
-
----
-
-## 📸 Preview
-
-> _Add screenshots or GIFs of your app here for better visual understanding._
-
----
-
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/react-word-counter.git
-cd react-word-counter
